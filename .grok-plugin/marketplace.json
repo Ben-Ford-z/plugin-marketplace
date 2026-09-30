@@ -159,7 +159,7 @@
   "homepage": "https://mcp.brosh.io",
   "keywords": ["brosh", "brosh crm", "brosh sales"],
   "domains": ["brosh.io", "mcp.brosh.io"]
-}
+},
     {
       "name": "netlify",
       "description": "Skills for the Netlify platform: serverless and edge functions, Blobs storage, managed Postgres, Image CDN, forms, identity, caching, AI Gateway, framework adapters, and the Netlify CLI and deploys.",
